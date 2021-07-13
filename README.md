@@ -1,2 +1,2 @@
-# Tribute Page
-  A basic HTML page demonstrating the usage of basic CSS properties.
+# STATIC HTML PAGES
+ Static HTML pages demonstrating the usage of fundamental CSS properties.
